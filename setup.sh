@@ -9,11 +9,9 @@ yay -Syu --noconfirm -needed alsa alsa-utils bat btop bc cava discord dunst ffmp
 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
 
 # cloning powerlevel10k
-cd ~
 git clone --depth=1 https://github.com/romkatv/powerlevel10k.git "${ZSH_CUSTOM:-$HOME/.oh-my-zsh/custom}/themes/powerlevel10k"
 
 # copying everything
-cd dotfiles
 cp * $HOME/
 
 reboot
