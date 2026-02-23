@@ -1,0 +1,28 @@
+{
+    "checksum": "83514ad92120617370555f1f6e677830",
+    "wallpaper": "/home/weldon/Wallpapers/wallpaper3.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#15090b",
+        "foreground": "#c4c1c2",
+        "cursor": "#c4c1c2"
+    },
+    "colors": {
+        "color0": "#15090b",
+        "color1": "#951A2E",
+        "color2": "#A7314B",
+        "color3": "#926868",
+        "color4": "#AE8F74",
+        "color5": "#9F7588",
+        "color6": "#7C8183",
+        "color7": "#c4c1c2",
+        "color8": "#6c585b",
+        "color9": "#951A2E",
+        "color10": "#A7314B",
+        "color11": "#926868",
+        "color12": "#AE8F74",
+        "color13": "#9F7588",
+        "color14": "#7C8183",
+        "color15": "#c4c1c2"
+    }
+}
